@@ -1,2 +1,2 @@
-a = ["Hello world" , int(42)]
+a = ["Hello world", int(42)]
 print(a)  
