@@ -1,0 +1,1 @@
+print("AbcdEfghIjklmnOpqrstUvwxYz"[::-1])
